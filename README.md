@@ -13,4 +13,4 @@ A technology enthusiast who aspires to be a full stack engineer
   
 - Life hobby: Film master; Food lover; Novice badminton player And Novice basketball player; Cycling enthusiast
 
-<img align="center" src="https://pic.imgdb.cn/item/6604d92c9f345e8d03020005.jpg" height="691">
+<img  src="https://pic.imgdb.cn/item/6604d92c9f345e8d03020005.jpg" >

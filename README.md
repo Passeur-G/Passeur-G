@@ -1,7 +1,7 @@
 ## About me
 A technology enthusiast who aspires to be a full stack engineer
 
-<img align="right" src="https://pic.imgdb.cn/item/6604d92c9f345e8d03020005.jpg" height="326">
+<img align="right" src="https://pic.imgdb.cn/item/6604d92c9f345e8d03020005.jpg" height="205" wight="180">
 
 - Tech blog：[passeur-g.github.io](https://passeur-g.github.io/)
   
